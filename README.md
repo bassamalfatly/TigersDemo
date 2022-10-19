@@ -1,3 +1,8 @@
-This is a practice script to learn how to manage gitpod.
+# Our first gitpod training
 
-Link to open it to run on the cloud is: https://gitpod.io/#https://github.com/bassamalfatly/TigersDemo.git
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/bassamalfatly/TigersDemo.git)
+
+`code
