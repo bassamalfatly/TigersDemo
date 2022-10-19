@@ -1,2 +1,3 @@
-Hello, this is a training for good scientific writing and coding
-you can access the codes on: https://gitpod.io/#https://github.com/bassamalfatly/TigersDemo.git
+This is a practice script to learn how to manage gitpod.
+
+Link to open it to run on the cloud is: https://gitpod.io/#https://github.com/bassamalfatly/TigersDemo.git
